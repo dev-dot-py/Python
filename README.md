@@ -8,10 +8,10 @@ DEV.py Website: https://devdotpy.com/
 DEV.py Twitter: @DevDotPy
 
 ## Episode 1 - Installing Python using PyEnv
-https://youtu.be/TCSQ4MjgY9k
+Watch Episode 1 here: https://youtu.be/TCSQ4MjgY9k
 
 ## Episode 2 - Installing the PyCharm IDE
-https://youtu.be/4EFNAD9j_ZA
+Watch Episode 2 here: https://youtu.be/4EFNAD9j_ZA
 
 ## Episode 3 - Variables
 Episode 3 Overview: [Episode 3 README](Episode_3/EPISODE3_README.md)
