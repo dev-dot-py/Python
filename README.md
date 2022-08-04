@@ -14,7 +14,7 @@ https://youtu.be/TCSQ4MjgY9k
 https://youtu.be/4EFNAD9j_ZA
 
 ## Episode 3 - Variables
-To view the code examples from episode 3 click here: [Episode 3 README](Episode_3/EPISODE3_README.md)
+Episode 3 Overview: [Episode 3 README](Episode_3/EPISODE3_README.md)
 
 Variables Exercise 001 - [Variables 001](Episode_3/variables_001.py)
 
