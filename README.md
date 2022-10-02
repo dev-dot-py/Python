@@ -7,6 +7,8 @@ DEV.py Website: https://devdotpy.com/
 
 DEV.py Twitter: @DevDotPy
 
+dev@devdotpy.com
+
 ## Episode 1 - Installing Python using PyEnv
 Watch Episode 1 here: https://youtu.be/TCSQ4MjgY9k
 
